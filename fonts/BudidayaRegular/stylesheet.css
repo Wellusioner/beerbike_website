@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Blits-One';
+    src: url('Blits-One.eot');
+    src: url('Blits-One.eot?#iefix') format('embedded-opentype'),
+        url('Blits-One.woff2') format('woff2'),
+        url('Blits-One.woff') format('woff'),
+        url('Blits-One.ttf') format('truetype'),
+        url('Blits-One.svg#Blits-One') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

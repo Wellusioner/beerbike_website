@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Crafter';
+    src: url('Crafter-Regular.eot');
+    src: url('Crafter-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Crafter-Regular.woff2') format('woff2'),
+        url('Crafter-Regular.woff') format('woff'),
+        url('Crafter-Regular.ttf') format('truetype'),
+        url('Crafter-Regular.svg#Crafter-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
